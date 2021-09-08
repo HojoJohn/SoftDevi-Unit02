@@ -17,7 +17,7 @@ height = int(input("Enter the height: "))
 size = int(input("Enter the size: "))
 
 color = input("Enter a color: ")
- """
+""" 
 
 def draw_rectangle(draw,x,y,width,height,size,color):
     draw.fillcolor(color)
