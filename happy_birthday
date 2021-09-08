@@ -6,4 +6,4 @@ birth_day = input("Enter your birthday: ")
 
 birth_year = input("Enter your birth year")
 
-print(namae, "your birthday is on", birth_month, birth_day, ",", birth_year)
+print(name, "your birthday is on", birth_month, birth_day, ",", birth_year)
